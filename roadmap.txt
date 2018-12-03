@@ -1,0 +1,6 @@
+-Put one switch and test interruption on a led
+-Put one switch and send Lora notification
+-Optimize rn2483 behavior for sleep mode if no interruption and no crash mode if no network available
+-I press the switch led green if network or red if no network
+
+-Add accelelometer at the end to replace the switch
